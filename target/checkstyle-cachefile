@@ -1,0 +1,13 @@
+#Fri Jun 05 22:12:13 IST 2020
+module-resource*?\:checkstyle-suppressions.xml=BE90B7B09668DA867F2804647509F9715AEB4717
+E\:\\spring-petclinic-master\\src\\main\\java\\org\\springframework\\samples\\petclinic\\model\\PetType.java=1534534760000
+E\:\\spring-petclinic-master\\src\\main\\resources\\messages\\messages_de.properties=1534534760000
+E\:\\spring-petclinic-master\\src\\main\\java\\org\\springframework\\samples\\petclinic\\repository\\jdbc\\package-info.java=1534534760000
+E\:\\spring-petclinic-master\\src\\main\\java\\org\\springframework\\samples\\petclinic\\web\\package-info.java=1534534760000
+E\:\\spring-petclinic-master\\src\\main\\java\\org\\springframework\\samples\\petclinic\\model\\Specialty.java=1534534760000
+E\:\\spring-petclinic-master\\src\\main\\java\\org\\springframework\\samples\\petclinic\\repository\\jpa\\package-info.java=1534534760000
+E\:\\spring-petclinic-master\\src\\main\\resources\\spring\\data-access.properties=1534534760000
+module-resource*?\:checkstyle-xpath-suppressions.xml=E143BED7E59F1F30CEC1F76781B4AD20148C808B
+configuration*?=6D5BD4AECA4343833BB9972644627F83AB3AD158
+E\:\\spring-petclinic-master\\src\\main\\resources\\messages\\messages.properties=1534534760000
+E\:\\spring-petclinic-master\\src\\main\\java\\org\\springframework\\samples\\petclinic\\model\\package-info.java=1534534760000
