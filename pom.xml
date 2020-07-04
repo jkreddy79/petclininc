@@ -5,12 +5,12 @@
     <groupId>org.springframework.samples</groupId>
     <artifactId>spring-petclinic</artifactId>
     <version>4.2-SNAPSHOT</version>
-    <name>spring-petclinic-4.2</name>
+    <name>spring-petclinic</name>
     <packaging>war</packaging>
 	<distributionManagement>
   <repository>
     <id>devops</id>
-    <url>http://localhost:8081/nexus/content/repositories/devops</url>
+    <url>http://ec2-34-202-158-163.compute-1.amazonaws.com:8081</url>
   </repository>
 </distributionManagement>
 
